@@ -1,0 +1,7 @@
+@startuml
+        actor ONTOP
+        ONTOP -> "Debit 10% per transaction"
+        ONTOP -> "Update transaction status"
+        ONTOP -> "Update USER wallet balace"
+@enduml
+
